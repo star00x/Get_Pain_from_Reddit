@@ -1,0 +1,26 @@
+# High-value Reddit threads for extraction
+# Source: task-002 to task-005 prompts
+
+# task-002: 角色/场景一致性 (5 threads)
+https://www.reddit.com/r/generativeAI/comments/1mbwbyt/can_anybody_tell_me_how_to_create_consistent_ai/
+https://www.reddit.com/r/aitubers/comments/1omwufw/any_ai_tools_for_consistent_character_animation/
+https://www.reddit.com/r/n8n/comments/1or1gwi/i_built_an_ai_automation_that_generates_unlimited/
+https://www.reddit.com/r/grok/comments/1ogq0sy/keeping_character_appearance_consistent_across/
+https://www.reddit.com/r/generativeAI/comments/1lfzzz3/best_texttovideo_models_for_character_scene/
+
+# task-003: 生成质量/可控性 (4 threads)
+https://www.reddit.com/r/singularity/comments/1hqvg5h/why_is_sora_so_bad_despite_all_the_hype_it_had/
+https://www.reddit.com/r/SoraAi/comments/1l8pdf1/sora_ai_keeps_ignoring_specific_visual/
+https://www.reddit.com/r/runwayml/comments/1jor1t4/gen4_honest_opinion_disappointing_but_better_than/
+https://www.reddit.com/r/KlingAI_Videos/comments/1gwvw5h/major_issues_with_kling_ai_unusable_results/
+
+# task-004: 工作流/批量自动化 (5 threads)
+https://www.reddit.com/r/PromptEngineering/comments/1mvfcrr/everything_i_learned_after_10000_ai_video/
+https://www.reddit.com/r/PromptEngineering/comments/1mzan5d/my_complete_ai_video_workflow_that_generates_20/
+https://www.reddit.com/r/automation/comments/1mivv0a/i_built_a_fully_automated_ai_video_factory_heres/
+https://www.reddit.com/r/automation/comments/1q9xvhw/how_are_you_automating_1000_product_showcase/
+https://www.reddit.com/r/automation/comments/1pdkrwj/what_i_learned_from_burning_500_on_ai_video/
+
+# task-005: 竞品分析 (2 additional threads, 1hqvg5h already included above)
+https://www.reddit.com/r/artificial/comments/1mi9y9m/whats_the_current_frontier_in_aigenerated/
+https://www.reddit.com/r/premiere/comments/1m7etdp/whats_your_take_on_aigenerated_video_useful/

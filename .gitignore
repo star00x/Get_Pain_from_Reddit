@@ -1,0 +1,66 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ------------------------------------------
+# Editor / IDE
+# ------------------------------------------
+# JetBrains
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+\#*\#
+.#*
+
+# ------------------------------------------
+# Wide Research 执行产物
+# ------------------------------------------
+# 每次研究运行产生的输出目录 (runs/<date>-<summary>-<suffix>/)
+# 包含: prompts/, child_outputs/, logs/, raw/, aggregated_raw.md, polished_report.md
+# 通常体积大且为临时产物
+# 如需保留特定结果: git add -f runs/<run-id>/
+runs/
+
+# ------------------------------------------
+# Temporary & Logs
+# ------------------------------------------
+*.log
+*.tmp
+tmp/
+temp/
+
+# ------------------------------------------
+# Python
+# ------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ------------------------------------------
+# Secrets (预留)
+# ------------------------------------------
+.env
+.env.local
+.env.*.local
+*.secret
+cookie.txt
+.serena
+.codex/
+commands/
+
+# ------------------------------------------
+# Temporary Planning Files
+# ------------------------------------------
+plan.md
+
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+
+settings.local.json
