@@ -467,7 +467,8 @@ query = f'site:reddit.com "alternative to Notion" after:{filter_date}'
 
 # 推荐 (用于 Reddit 评论深度抓取)
 - Python 3.8+
-- cookie.txt (从浏览器导出，用于绕过速率限制)
+- 根目录下创建一个 cookie.txt 文件
+- 在你的 Reddit 账号已登录的情况下, 获取 Reddit 的 cookie 并填入 cookie.txt 中，用于绕过速率限制
 ```
 
 ### 触发方式
